@@ -1,0 +1,9 @@
+Comandos utiles Angular
+
+Creacion de proyecto:
+
+ng new angular-keep
+
+Agregar angular Material:
+entramos a la carpeta del proyecto
+ng add @angular/material
